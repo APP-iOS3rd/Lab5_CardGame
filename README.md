@@ -1,5 +1,5 @@
 # 🃏 카드게임
-> 프로젝트 기간: 2022-11-09 14:00 ~ 16:30
+> 프로젝트 기간: 2023-11-09 14:00 ~ 16:30
 > 
 > 팀원: [hamfan524](https://github.com/hamfan524), [DevLarva](https://github.com/DevLarva), [2HYUNHO](https://github.com/2HYUNHO), [zoa0945](https://github.com/zoa0945)
 
